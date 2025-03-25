@@ -1,0 +1,166 @@
+body {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif,
+    "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+/* PROJECT 1 */
+
+.proj-1 {
+  height: 400px;
+  width: 600px;
+  background-color: rgb(44, 197, 82);
+  margin: 50px auto;
+  padding: 80px 30px;
+  border-radius: 10px;
+}
+
+.p1-heading {
+  font-size: 50px;
+}
+
+.p1-text {
+  font-size: 20px;
+}
+
+.p1-button {
+  padding: 15px 25px;
+  border-radius: 50px;
+  border: none;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+/* PROJECT 2 */
+
+.proj-2 {
+  border: 2px solid rgb(209, 209, 209);
+  height: auto;
+  width: 600px;
+  margin: 50px auto;
+  border-radius: 15px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.profile-wrapper {
+  padding: 25px;
+}
+
+.p2-heading {
+  font-size: 28px;
+  font-weight: 500;
+}
+
+.p2-text {
+  font-size: 18px;
+}
+
+.p2-img {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  margin: 50px;
+}
+
+.see-profile {
+  padding: 10px 25px;
+  border-top: 2px solid rgb(209, 209, 209);
+  color: blue;
+  font-size: 15px;
+}
+
+/* PROJECT 3 */
+
+.proj-3 {
+  width: 500px;
+  border-radius: 15px;
+  border: 2px solid rgb(209, 209, 209);
+  margin: 50px auto;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  overflow: hidden;
+}
+
+.p3-img {
+  width: 100%;
+}
+
+.text-wrapper {
+  padding: 20px;
+}
+
+.p3-subscribe {
+  color: #767676;
+}
+
+.p3-heading {
+  font-weight: 500;
+}
+
+.p3-text {
+  font-size: 19px;
+}
+
+.p3-button {
+  padding: 10px 25px;
+  background-color: white;
+  border: 2px solid rgb(209, 209, 209);
+  color: rgb(0, 0, 219);
+  font-size: 15px;
+  font-weight: 600;
+  border-radius: 5px;
+}
+
+/* PROJECT 4 */
+.proj-4 {
+  border-top: 2px solid #cbcbcb;
+  width: 600px;
+  border-radius: 5px;
+  margin: 50px auto;
+}
+
+.proj4-wrapper {
+  width: 250px;
+  height: auto;
+  margin: 50px auto;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.logo {
+  height: 100px;
+}
+
+.p4-heading {
+  font-size: 16px;
+  font-weight: 600;
+  margin: 25px;
+}
+
+.p4-input {
+  padding: 8px 10px;
+  border: 2px solid #b4b4b4;
+  width: 100%;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+
+.p4-button {
+  padding: 10px;
+  width: 80%;
+  border: none;
+  background-color: black;
+  color: white;
+  font-weight: 500;
+  border-radius: 50px;
+}
+
+.options {
+  font-size: 13px;
+  margin: 40px;
+}
+
+.underline {
+  text-decoration: underline;
+}
